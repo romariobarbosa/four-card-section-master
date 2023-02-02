@@ -1,0 +1,45 @@
+@media (max-width: 700px) {
+    .content {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .page-description{
+        width: 270px;
+        font-size: 10px;
+    }
+
+    
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 0px;
+    }
+
+
+    h1 {
+        font-weight: 200;
+        margin-bottom: 0px;
+    }
+
+    .cards {
+        margin-bottom: 20px;
+        align-items: space-between;
+    }
+
+    #supervisor {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    #calculator {
+        margin-right: 0px;
+    } 
+
+    #karma {
+        margin-top: 0px;
+    }
+}
